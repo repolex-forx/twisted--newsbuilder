@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "twisted",
+  "repo": "newsbuilder",
+  "versions": [
+    {
+      "commit": "5de0b3d90f0a06f54e820f8b3520364e96b7111c",
+      "parsed_at": "2026-10-15T14:47:50.733212+00:00",
+      "filetree": "filetree/5de0b3d90f0a06f54e820f8b3520364e96b7111c.nq.gz",
+      "blobs": [
+        "blob/f4b5a3c58f04e12fd0954e3948df22d084ee7ac6.nq.gz",
+        "blob/1712aa033f96869465d0bf7b33aabb555f73524b.nq.gz",
+        "blob/2cacf9b72c607b7242b1a5a58e76f2ca2feef911.nq.gz",
+        "blob/2610bc0e89fe06cf8625fcba01858f708b4f0e22.nq.gz",
+        "blob/365e3bc04ecec2f150e3753b2f12ed64d4a3d104.nq.gz",
+        "blob/64d460da8e27cfd6fcfa51adf63b122c5265921a.nq.gz",
+        "blob/c3884dd8e47d744316a4ef0f68719d38e647b4c2.nq.gz",
+        "blob/7cfcc7f7ab13f6c8d2420f4639d4c661a1b2d172.nq.gz",
+        "blob/3c05052c3c328b46e85ebf52e5817f4c32f751bd.nq.gz",
+        "blob/16abedc6086245773455ef56f4bf8330ffd4af3e.nq.gz",
+        "blob/5d7e4eb9c124ef798f54a948df7d0181471e73f9.nq.gz",
+        "blob/a5ac945ded6792d3bec5c02a4868e18437a3c580.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/e3ffb015840b2178dd2df22a7648ea947b22cae4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
